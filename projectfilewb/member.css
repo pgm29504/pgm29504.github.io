@@ -1,0 +1,93 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Cairo', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul li {
+    list-style: none;
+
+}
+
+.logo1 {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: 0px auto;
+}
+
+.thanhnav ul li {
+    list-style: none;
+}
+
+.thanhnav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    nav-left: 20px;
+}
+
+.thanhnav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.thanhnav li a:hover:not(.active) {
+    background-color: rgb(190, 190, 190);
+}
+
+li {
+    float: left;
+}
+.footer_left a{
+        color: seashell;
+        padding-left: 14%;
+}
+    .footer_left img{
+        padding-left: 14%;
+}
+.footer {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer_left a {
+    color: seashell;
+}
+
+.footer_right {
+    color: rgb(165, 161, 158);
+    padding-left: 600px;
+}
+table{
+    border-spacing: 2px;
+    letter-spacing: 2px;
+}
+.tr0{
+    background-color: rgb(167, 168, 168);
+    margin: 10px;
+}
+.tr02{
+    background-color: rgb(167, 168, 168);
+}
+.fo01 {
+    text-align: center;
+    
+}
+.fo02{
+    padding-left: 3%;
+}
+.fo03{
+    padding-left: 3%;
+}
