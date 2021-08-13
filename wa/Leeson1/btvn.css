@@ -13,7 +13,7 @@
 }
 
 h2 {
-    padding: 10px 690px 0 0;
+    padding: 10px 630px 0 0;
 }
 
 .b1 {
@@ -24,11 +24,11 @@ h2 {
 
 .td01 {
     color: rgb(39, 37, 37);
-    margin-left: 120px;
+    margin-left: 95px;
     padding: 10px;
     background-color: rgb(212, 212, 212);
     border-radius: 16px;
-    width: 250px;
+    width: 190px;
 }
 
 .list {
@@ -55,7 +55,7 @@ h2 {
     display: block;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 300px;
+    width: 260px;
     margin: 7px;
     border-radius: 24px 24px 0 0;
 }
