@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+}
+
+.tongquat {
+    background-color: rgb(219, 219, 219);
+}
+
+.khung {
+    margin: 0 100px;
+    background-color: rgb(255, 255, 255);
+    flex-direction: column;
+}
+
+h2 {
+    padding: 10px 690px 0 0;
+}
+
+.b1 {
+    display: flex;
+    padding: 30px;
+    background-color: white;
+}
+
+.td01 {
+    color: rgb(39, 37, 37);
+    margin-left: 120px;
+    padding: 10px;
+    background-color: rgb(212, 212, 212);
+    border-radius: 16px;
+    width: 250px;
+}
+
+.list {
+    display: flex;
+    background-color: whitesmoke(231, 219, 219);
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-color: rgb(255, 255, 255);
+}
+
+.game1 {
+    background-color: whitesmoke;
+    */ margin-right: 10px;
+    margin-left: 7px;
+    border-radius : 30px 30px;
+
+}
+
+.game1:hover {
+    opacity: 0.9;
+}
+
+.game1 img {
+    display: block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 300px;
+    margin: 7px;
+    border-radius: 24px 24px 0 0;
+}
+
+.ava img {
+    width: 40px;
+}
+
+.ava {
+    display: flex;
+}
+
+p {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.name1 {
+    padding: 2px;
+}
+
+.name2 {
+    font-size: 12px;
+    color: rgb(70, 68, 68);
+
+}
+
+#icon {
+    color: white;
+    display: flex;
+    margin-left: 2%;
+    background-color: rgb(58, 204, 58);
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    font-size: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.live {
+    padding: 20px 10px 20px 10px;
+    flex-direction: row;
+    display: flex;
+}
+
+#wifi {
+    background-color: rgb(240, 80, 80);
+    color: white;
+    padding: 9px 20px;
+    display: inline;
+    border-radius: 9px;
+    font-size: 14px;
+    margin-right: 50px;
+}
+
+.ping {
+    background-color: rgb(144, 144, 211);
+    width: 11px;
+    height: 11px;
+    border-radius: 50%;
+    margin: 2px 0 0 0;
+
+}
+
+.view {
+    display: flex;
+    margin-top: 2px;
+}
+
+.view0 {
+    font-size: 16px;
+}
